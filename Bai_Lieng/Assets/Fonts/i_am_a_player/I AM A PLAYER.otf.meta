@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8a0a6bed6d9faaa49a16b7333a88ef3d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: I AM A PLAYER
+  fontNames:
+  - I AM A PLAYER
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a80747c930f54f46a4e8e4253b0fb26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
